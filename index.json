@@ -4,7 +4,7 @@
   },
   "firefox": {
     "esr_115": "firefox/Firefox_115.37.0esr_x86_ru.cxe"
-  }
+  },
   "cxepm": {
     "1.0": "catindows/cxepm.cxe",
     "1.0_lw": "catindows/cxepm_lw.cxe"
