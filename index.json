@@ -1,4 +1,8 @@
 {
-  "opera": ["95"],
-  "firefox": ["esr_115"]
+  "opera": {
+    "95": "opera/Opera_95.0.4635.90_x86_ml.cxe"
+  },
+  "firefox": {
+    "esr_115": "firefox/Firefox_115.37.0esr_x86_ru.cxe"
+  }
 }
