@@ -7,6 +7,11 @@
   },
   "cxepm": {
     "1.0": "catindows/cxepm.cxe",
-    "1.0_lw": "catindows/cxepm_lw.cxe"
-  }
+    "1.0_lw": "catindows/cxepm_lw.cxe",
+    "26.10": "catindows/cxepm_26.10.cxe",
+    "26.10_lw": "catindows/cxepm_26.10_lw.cxe"
+  },
+  {
+  "mpc-hc": {
+    "2.8.4": "mpc-hc.cxe"
 }
